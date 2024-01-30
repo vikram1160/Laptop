@@ -1,4 +1,5 @@
 .contener{
+     height: 300vh;
     flex-wrap: wrap;
     background-color: rgb(227, 227, 227);
 }
@@ -17,4 +18,14 @@ h2{
 }
 h3{
     margin-top: 40px;
+}
+.photo{
+    width: 100%;
+    height: 76%;
+    
+}
+.photos{
+    width: 100%;
+    height: 70%;
+    
 }

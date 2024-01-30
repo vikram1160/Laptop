@@ -1,5 +1,7 @@
 import React from 'react'
 import './Repair.css'
+import repair1 from "../assets/Repair1.jpg"
+import Repair2 from "../assets/repair2.jpg"
 
 
 const Repair = () => {
@@ -12,7 +14,8 @@ const Repair = () => {
        <p></p>
       </div>
       <div className="box2">
-
+      <img className='photo' src={repair1} alt='show'/>
+      <img className='photos' src={Repair2} alt='show'/>
       </div>
 
     </div>

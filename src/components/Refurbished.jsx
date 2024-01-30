@@ -1,9 +1,11 @@
 import React from 'react'
+import './Refurbished.css'
+import shop2 from '../assets/shop4.jpg'
 
 const Refurbished = () => {
   return (
     <div>
-      Refurbished
+      <img className="shoptwo" src={shop2}/>
     </div>
   )
 }

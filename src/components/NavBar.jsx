@@ -45,7 +45,7 @@ const Navbar = () => {
           </li>
           <li className="nav-item">
             <Link className="nav-link" onClick={toggleNavbar} to="refurbished">
-            Refurbished
+            Sell Laptop
             </Link>
           </li>
           <li className="nav-item">
