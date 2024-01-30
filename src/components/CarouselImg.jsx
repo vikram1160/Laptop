@@ -22,7 +22,7 @@ function UncontrolledExample() {
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
-      <img src={shop3} shop3/>
+      <img src={shop3} alt='shop3'/>
         <Carousel.Caption>
           {/* <h3>Third slide label</h3> */}
           <p>
