@@ -5,13 +5,11 @@ import viki from '../assets/insta4.jpg'
 import { Link } from "react-router-dom";
 import CarouselImg from '../components/CarouselImg'
 
-
 function Home() {
 
   
   return (
     <div>
-      <marquee className="mari">Refurbished Laptop Call 8554004500</marquee>
      <CarouselImg/>
     <div className="d-flex mb-5">
       <Link to="https://www.instagram.com/laptop_solution_pune?igsh=eXNmMnM1MTl3ZjZh">
