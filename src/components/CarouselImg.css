@@ -2,9 +2,17 @@ img{
     width: 100%;
     height: 500px;
 }
-  
-  @media screen and (min-width: 700px) and (max-width: 200px) {
-
-  }
+.shop1{
+  object-fit: cover;
+}
+.shop2{
+  object-fit: cover;
+}
+.shop3{
+  object-fit: cover;
+}
+Carousel{
+  height: 20px;
+}
   
 

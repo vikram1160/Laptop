@@ -9,7 +9,7 @@ function Home() {
 
   
   return (
-    <div>
+    <div> 
      <CarouselImg/>
     <div className="d-flex mb-5">
       <Link to="https://www.instagram.com/laptop_solution_pune?igsh=eXNmMnM1MTl3ZjZh">
@@ -18,6 +18,7 @@ function Home() {
       <Link to="https://wa.me/918554004500\?text=Buy For Laptop">
         <img src={vik} className='whatsapp' alt='whatsapp'/>
       </Link>
+      
     </div>
     </div>
   );

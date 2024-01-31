@@ -1,4 +1,11 @@
 .shoptwo{
     width: 100%;
-    height: 600px;
+    height: 600vh;
+}
+img{
+    width:100%;
+    height: 100vh;
+    object-fit: cover;
+    object-fit: contain;
+
 }
