@@ -4,13 +4,13 @@
     background-color: rgb(227, 227, 227);
 }
 .box1{
-    width: 650px;
-    height: 600px;
+    width: 90vw;
+    height: 100vh
     /* background-color: aqua; */
 }
 .box2{
-    width: 650px;
-    height: 600px;
+    width: 80vw;
+    height: 200vh
     /* background-color: rgb(222, 198, 12); */
 }
 h2{
